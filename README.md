@@ -1,9 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Wokwi Project Template
+# Tiny Tapeout Wokwi Project Template Edited for PhBootCamp2026
 
-- [Read the documentation for project](docs/info.md)
-
+* The wokwi template was copied for demos purposes.
 ## What is Tiny Tapeout?
 
 Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
